@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: missing or unclosed tags. The bug.html file contains the erroneous code, leading to unexpected behavior in the browser. The bugSolution.html file provides the corrected code with properly closed tags.  Understanding proper tag closure is crucial for creating valid and functional HTML.
